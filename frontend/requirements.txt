@@ -1,1 +1,2 @@
 aiohttp>=3.4.4
+aiozipkin>=0.4.0
